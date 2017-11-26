@@ -1,0 +1,94 @@
+body {
+  background-color: tan;
+  text-align: center;
+}
+#welcome{
+  text-align: center;
+  vertical-align: middle;
+}
+.sidemenu {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  font-family: helvetica;
+  font-size: 0.8em;
+  width: 100px;
+  border-bottom: 1px solid turquoise;
+  background-color: lightblue;
+}
+.sidemenu li {
+  border-top: 1px solid turquoise;
+  border-left: 1px solid turquoise;
+  border-right: 1px solid turquoise;
+}
+.sidemenu li a {
+  text-decoration: none;
+  display: block;
+  width: 78px;
+  color: black;
+  font-weight: bold;
+  padding: 2px 10px;
+}
+.sidemenu li a:hover {
+  color: orange;
+  background-color: green;
+}
+#puzone {
+  display: none;
+}
+#puztwo {
+display: none;
+}
+#puzthree {
+  display: none;
+}#puzfour {
+  display: none;
+}#puzfive {
+  display: none;
+}#puzsix {
+  display: none;
+}#puzseven {
+  display: none;
+}#puzeight {
+  display: none;
+}#puznine {
+  display: none;
+}#puzten {
+  display: none;
+}#puzeleven {
+  display: none;
+}#puztwelve {
+  display: none;
+}#puzthirteen {
+  display: none;
+}#puzfourteen {
+  display: none;
+}#puzfifteen {
+  display: none;
+}
+#start {
+  background: black;
+  border: none;
+  font-size: 0px;
+  width: 100px;
+  height: 100px;
+}
+.bluebutton {
+  background: blue;
+  border: none;
+  font-size: 0px;
+  width: 100px;
+  height: 100px;
+}
+.redbutton {
+  background: red;
+  border: none;
+  font-size: 0px;
+  width: 100px;
+  height: 100px;
+}
+#greenbutton {
+  background: green;
+  width: 100px;
+  height: 100px;
+}
