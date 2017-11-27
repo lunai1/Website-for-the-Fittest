@@ -7,7 +7,7 @@ function unlock() {
     window.location.href = 'welcome.html';
   }else {
     name = prompt('What is your name?');
-    if(name.toLowerCase() == 'Irel Nave'.toLowerCase() || name.toLowerCase() == 'Atomnus'.toLOwerCase()) {
+    if(name.toLowerCase() == 'Irel Nave'.toLowerCase() || name.toLowerCase() == 'Atomnus'.toLowerCase()) {
       pass = prompt('VIP passcode?');
       if(pass == "283679908444") {
         window.location.href = 'welcome.html';
