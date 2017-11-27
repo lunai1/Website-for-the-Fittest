@@ -66,6 +66,12 @@ display: none;
 }#puzfifteen {
   display: none;
 }
+.greenno {
+  color: tan;
+}
+.greenno:hover {
+  color: green; 
+}  
 #start {
   background: black;
   border: none;
