@@ -15,7 +15,7 @@ function unlock() {
         alert('nope');
       }
     }else{
-      Alert('Na Beech');
+      alert('Na Beech');
     }
   }
 }
