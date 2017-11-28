@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <link rel="stylesheet" href="/wftf/indexstyle.css"/>
   <link rel="stylesheet" href="/wftf/puzzle.css"/>
-  <title>WFTF Puzzle 2</title>
+  <title>WFTF Puzzle 3</title>
 </head>
 <body>
   <ul class="sidemenu">
@@ -13,6 +13,302 @@
     <li><a href="/wftf/otherstuff.html">Other stuff</a></li>
   </ul>
   <h1 id="welcome">Puzzle 3</h1>
-  
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+   <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+   <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+   <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+   <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'pthree.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+   <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+   <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+   <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+   <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button><button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
+  <button class="hidden" onclick="window.location.href = 'nope.html'></button>
 </body>
 </html>
