@@ -1,1 +1,18 @@
-
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="stylesheet" href="/wftf/indexstyle.css"/>
+  <link rel="stylesheet" href="/wftf/puzzle.css"/>
+  <title>WFTF Puzzle 2</title>
+</head>
+<body>
+  <ul class="sidemenu">
+    <li><a href="/wftf/welcome.html">Home</a></li>
+    <li><a href="/wftf/puzzlestart.html">Puzzle room</a></li>
+    <li><a href="/wftf/otherstuff.html">Other stuff</a></li>
+  </ul>
+  <h1 id="welcome">Puzzle 3</h1>
+  
+</body>
+</html>
