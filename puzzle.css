@@ -101,18 +101,27 @@ display: none;
 .hidden {
   background: transparent;
   border: none;
+  height: 10px;
+  width: 10px;
 }
 .hidden:hover {
   background-color: red;
   border: none;
+  height: 10px;
+  width: 10px;
 }
 .hiddengo {
   background: transparent;
   border: none;
+  width:10px;
+  height: 10px;
 }
 .hiddengo:hover {
   background-color: green;
+  width: 10px;
+  height: 10px
 }
 #go3 {
   display: none;
+  background-color: green;
 }
