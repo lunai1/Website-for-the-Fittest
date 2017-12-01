@@ -106,7 +106,13 @@ display: none;
   background-color: red;
   border: none;
 }
+.hiddengo {
+  background: transparent;
+  border: none;
+}
+.hiddengo:hover {
+  background-color: green;
+}
 #go3 {
   display: none;
-  
 }
