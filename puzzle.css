@@ -98,3 +98,15 @@ display: none;
   width: 100px;
   height: 100px;
 }
+.hidden {
+  background: transparent;
+  border: none;
+}
+.hidden:hover {
+  background-color: red;
+  border: none;
+}
+#go3 {
+  display: none;
+  
+}
