@@ -119,7 +119,7 @@ display: none;
 .hiddengo:hover {
   background-color: green;
   width: 10px;
-  height: 10px
+  height: 10px;
 }
 #go3 {
   display: none;
